@@ -18,5 +18,4 @@ CREATE TABLE tb_menu (
     gambar VARCHAR(255) NOT NULL
 );
 
--- dummy acc
 INSERT INTO tb_user (nama_lengkap, username, PASSWORD) VALUES ('Administrator Resto', 'admin', 'admin123');
